@@ -5,5 +5,5 @@ redirect_from:
   - /one
   - /One
   - /ONE
-  - 1
+  - /1
 ---
