@@ -4,5 +4,5 @@ redirect_to: https://docs.google.com/forms/d/e/1FAIpQLScFRxsz5ap4u8wR58DFa4tPGN8
 redirect_from: 
   - /ECMoneyForm
   - /ecmoneyform
-  - /ECMF
+  - /ecmf
 ---
