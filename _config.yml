@@ -10,6 +10,6 @@ permalink: /:slug
 plugins:
   - jekyll-redirect-from
   
-  - name: gsheet.action
+- name: gsheet.action
   uses: jroehl/gsheet.action@v1.1.0
 
