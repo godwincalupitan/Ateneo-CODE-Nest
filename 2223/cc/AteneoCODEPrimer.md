@@ -1,6 +1,6 @@
 ---
 title: Ateneo CODE Primer
-redirect_to: https://drive.google.com/drive/folders/1gAAtpOSb1CmCnNBO2IMGYltFgz-U2ghC 
+redirect_to: https://drive.google.com/file/d/1ZEzpCfPRDFNmy812mKPlK7AYlvb_wFXF/preview
 redirect_from: 
   - /AteneoCODEPrimer
   - /ateneocodeprimer
