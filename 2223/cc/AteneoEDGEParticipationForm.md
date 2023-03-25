@@ -1,0 +1,7 @@
+---
+title: Ateneo EDGE Participation Form
+redirect_to: https://docs.google.com/forms/d/e/1FAIpQLSfNUsJMVfNxmnvAv8Zm8xZubutQff4iFTrghpGAQo-bjM7xuQ/viewform
+redirect_from: 
+  - /EDGEParticipants
+  - /edgeparticipants
+---
