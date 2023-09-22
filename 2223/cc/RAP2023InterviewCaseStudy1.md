@@ -1,7 +1,7 @@
 ---
 title: RAP 2023 Interview Case Study 1
-redirect_to: https://docs.google.com/document/d/1b6fLiYVvaUuTSocGT_Xrc27E20kX4CJXxTZWMCxFLBk/edit#heading=h.g0w81bepmsas
+redirect_to: https://drive.google.com/file/d/1aFq0gvs_22o6uJIFzWdc9XFrusPcJt_I/view?usp=drive_link
 redirect_from: 
-  - /RAPInterviewCaseStudySHOTI
-  - /rapinterviewcasestudyshoti
+  - /RAPInterviewCaseSHOTI
+  - /rapinterviewcaseshoti
 ---
