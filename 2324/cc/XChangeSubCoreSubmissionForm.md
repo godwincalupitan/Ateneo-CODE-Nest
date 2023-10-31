@@ -1,7 +1,7 @@
 ---
 title: XChange SubCore Submission Form
-redirect_to: https://drive.google.com/drive/folders/18LQhECk6--Zaqedc3Vz9vvcsks3rziYm?usp=sharing
+redirect_to: https://forms.gle/1cg5Lcp1BNFQ8Map6
 redirect_from: 
-  - /XC24SubcoreAppkit
-  - /xc24subcoreappkit
+  - /XC24SubCoreAppSubmission
+  - /xc24subcoreappsubmission
 ---
