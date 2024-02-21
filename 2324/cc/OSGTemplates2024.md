@@ -1,7 +1,7 @@
 ---
 title: OSG Templates 2024
-redirect_to: https://docs.google.com/document/d/1ynmj45ZGNmHHrh8JFWGCM88JHZVJZOzjPLc9-380JBM/edit?usp=sharing
+redirect_to: https://drive.google.com/drive/folders/1xuXIA7zrLM2aRs2o__3d6l65GaxI8Fpi?usp=sharing
 redirect_from: 
-  - /OSGTemplates2324
-  - /osgtemplates2324
+  - /CODETemplates2324
+  - /codetemplates2324
 ---
