@@ -1,6 +1,6 @@
 ---
 title: XChange Faci TSX
-redirect_to: https://youtu.be/Y2D316h2vbU
+redirect_to: https://youtu.be/ij14jvzertI
 redirect_from: 
   - /XC24FaciTSX
   - /xc24facitsx
